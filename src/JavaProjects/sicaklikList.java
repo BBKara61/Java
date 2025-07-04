@@ -1,4 +1,4 @@
-package BasicJavaPractice;
+package JavaProjects;
 
 import java.util.*;
 

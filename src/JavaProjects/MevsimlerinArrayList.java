@@ -1,7 +1,6 @@
-package BasicJavaPractice;
+package JavaProjects;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class MevsimlerinArrayList {
 

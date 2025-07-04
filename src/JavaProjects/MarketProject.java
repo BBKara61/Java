@@ -1,4 +1,4 @@
-package Java_Practice;
+package JavaProjects;
 
 import java.time.LocalDate;
 import java.util.Scanner;
